@@ -43,12 +43,12 @@ The Gym Management System is a comprehensive web application designed to streaml
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/gym-management-system.git
+   git clone https://github.com/devpriyochakravarty/gym_management_system
    ```
 
 2. Navigate to the project directory:
    ```
-   cd gym-management-system
+   cd gym_management_system
    ```
 
 3. Open `index.html` in a modern web browser.
