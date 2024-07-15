@@ -117,7 +117,4 @@ Contributions to improve the Gym Management System are welcome. Please follow th
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 12. Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/gym-management-system](https://github.com/your-username/gym-management-system)
+Project Link: [https://github.com/your-username/gym-management-system](https://github.com/devpriyochakravarty/gym-management-system)
